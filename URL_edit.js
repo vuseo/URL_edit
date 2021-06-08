@@ -21,7 +21,8 @@ console.log("Issues with URL Parameter - " + err);
 //Tarkastaa, jos pagetype löytyy vai ei.
 if (avain3 != null ) {
  console.log("pagetype found, it is " + avain3);  }
- else{
+ 
+ else {
    console.log("pagetype not found.");
  }
      
